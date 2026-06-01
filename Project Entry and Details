@@ -1,0 +1,46 @@
+Bank Customer Intelligence & Churn Analytics
+Excel | PostgreSQL | Tableau
+
+• Cleaned and transformed banking customer data using Excel.
+• Performed exploratory and churn analysis using PostgreSQL.
+• Developed 2 interactive Tableau dashboards with KPI tracking, customer segmentation, churn risk analysis, and credit score intelligence.
+• Identified key churn drivers and provided actionable retention recommendations.
+
+Project Architecture
+Raw Data
+   ↓
+Excel Cleaning
+   ↓
+PostgreSQL Analysis
+   ↓
+Tableau Dashboards
+   ↓
+Business Insights
+   ↓
+Recommendations
+
+## Key Findings
+
+- Overall churn rate is 21%
+
+- Germany exhibits the highest churn concentration
+
+- Customers aged 41–50 show elevated churn risk
+
+- Inactive members are significantly more likely to churn
+
+- Poor credit score customers have the highest churn rate
+
+- Credit card ownership alone does not guarantee retention
+
+## Recommendations
+
+1. Launch retention campaigns for inactive customers.
+
+2. Prioritize customers aged 41–50.
+
+3. Develop targeted programs for low credit score customers.
+
+4. Increase engagement among customers without active memberships.
+
+5. Monitor high-balance customers to reduce revenue loss.
